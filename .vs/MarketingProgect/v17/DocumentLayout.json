@@ -1,7 +1,198 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|c:\\users\\juliya\\programming.cs\\marketingprogect\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02E405E-394E-4C4E-83C2-80F641350A69}|..\\MarketingBll.Tests\\MarketingBll.Tests.csproj|c:\\users\\juliya\\programming.cs\\marketingbll.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02E405E-394E-4C4E-83C2-80F641350A69}|..\\MarketingBll.Tests\\MarketingBll.Tests.csproj|c:\\users\\juliya\\programming.cs\\marketingbll.tests\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\viewmodels\\ordersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\productsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\interfaces\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\interfaces\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\concteate\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\concteate\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\viewmodels\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\concteate\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\concteate\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\usersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\mainpanelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\viewmodels\\mainpanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\mainpanelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\productsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\concteate\\discountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\concteate\\discountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\concteate\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\concteate\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\concteate\\orderitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\concteate\\orderitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\interfaces\\idiscountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\interfaces\\idiscountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\interfaces\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\interfaces\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\interfaces\\iorderitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\interfaces\\iorderitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\marketingdal\\interfaces\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:marketingdal\\interfaces\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}|..\\MarketingBll\\MarketingBll.csproj|c:\\users\\juliya\\programming.cs\\marketingbll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87E3513-8AFB-4411-9901-30AA5452C007}|..\\MarketingProjectApp\\MarketingProjectApp.csproj|c:\\users\\juliya\\programming.cs\\marketingprojectapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2EC95A-BDB3-4B7C-8C0B-05627D0FE6C1}|..\\MarketingProjectTests\\MarketingProjectTests.csproj|c:\\users\\juliya\\programming.cs\\marketingprojecttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2EC95A-BDB3-4B7C-8C0B-05627D0FE6C1}|..\\MarketingProjectTests\\MarketingProjectTests.csproj|c:\\users\\juliya\\programming.cs\\marketingprojecttests\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C0934-3567-40B9-816D-DEB4A43531FD}|..\\MarketingProject.Wpf\\MarketingProject.Wpf.csproj|c:\\users\\juliya\\programming.cs\\marketingproject.wpf\\views\\ordersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A4E4F5F-8A9E-453D-89E2-D802DC800ECD}|MarketingProject.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +200,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +209,694 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll.Tests\\packages.config",
+              "RelativeDocumentMoniker": "..\\MarketingBll.Tests\\packages.config",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll.Tests\\packages.config",
+              "RelativeToolTip": "..\\MarketingBll.Tests\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-19T02:05:25.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:52:53.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MarketingBll.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:05:20.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\Discount.cs",
+              "RelativeDocumentMoniker": "Entities\\Discount.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\Discount.cs",
+              "RelativeToolTip": "Entities\\Discount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:52:46.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalyticsService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\AnalyticsService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Services\\AnalyticsService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\AnalyticsService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Services\\AnalyticsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:52:17.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:48:32.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:52:55.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:52:57.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\LoginView.xaml",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T22:11:52.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersView.xaml",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\OrdersView.xaml",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\OrdersView.xaml",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\OrdersView.xaml",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\OrdersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T22:13:08.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\OrdersViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\ViewModels\\OrdersViewModel.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\OrdersViewModel.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\ViewModels\\OrdersViewModel.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAgwHEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:44:38.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\App.xaml.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\App.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:28:03.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\App.xaml",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\App.xaml",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\App.xaml",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T11:24:34.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\DiscountService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Services\\DiscountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:56:50.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IProductDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Interfaces\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IProductDal.cs",
+              "RelativeToolTip": "MarketingDal\\Interfaces\\IProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:15:54.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\ProductDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Concteate\\ProductDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\ProductDal.cs",
+              "RelativeToolTip": "MarketingDal\\Concteate\\ProductDal.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:53:21.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\MainView.xaml",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T21:53:26.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\LoginView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:41:16.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\ProductsView.xaml",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\ProductsView.xaml",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\ProductsView.xaml",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\ProductsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T22:12:46.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\ViewModels\\ProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\ProductsViewModel.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\ViewModels\\ProductsViewModel.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwD0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:44:24.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersView.xaml",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\UsersView.xaml",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\UsersView.xaml",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\UsersView.xaml",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\UsersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T22:12:21.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:48:09.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\UsersViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\ViewModels\\UsersViewModel.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\UsersViewModel.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\ViewModels\\UsersViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:44:10.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\UserDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Concteate\\UserDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\UserDal.cs",
+              "RelativeToolTip": "MarketingDal\\Concteate\\UserDal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:32:41.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Services\\UserService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:47:55.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsersView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\UsersView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\UsersView.xaml.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\UsersView.xaml.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\UsersView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:56:46.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:45:46.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:54:11.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\ProductsView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\ProductsView.xaml.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\ProductsView.xaml.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\ProductsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:33:46.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:52:50.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:52:58.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainPanelView.xaml",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\MainPanelView.xaml",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\MainPanelView.xaml",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\MainPanelView.xaml",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\MainPanelView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T22:57:50.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:43:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainPanelViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\MainPanelViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\ViewModels\\MainPanelViewModel.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\MainPanelViewModel.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\ViewModels\\MainPanelViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:01:02.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T09:54:12.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainPanelView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\MainPanelView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\MainPanelView.xaml.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\MainPanelView.xaml.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\MainPanelView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:02:12.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IDiscountDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IDiscountDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Interfaces\\IDiscountDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IDiscountDal.cs",
+              "RelativeToolTip": "MarketingDal\\Interfaces\\IDiscountDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:53:03.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IOrderDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Interfaces\\IOrderDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IOrderDal.cs",
+              "RelativeToolTip": "MarketingDal\\Interfaces\\IOrderDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:15:40.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IOrderItemDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IOrderItemDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Interfaces\\IOrderItemDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IOrderItemDal.cs",
+              "RelativeToolTip": "MarketingDal\\Interfaces\\IOrderItemDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:34:24.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IUserDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Interfaces\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Interfaces\\IUserDal.cs",
+              "RelativeToolTip": "MarketingDal\\Interfaces\\IUserDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:34:07.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\AddProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\AddProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\AddProductWindow.xaml.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\AddProductWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:48:41.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:44:00.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\AddProductWindow.xaml",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\AddProductWindow.xaml",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\AddProductWindow.xaml",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\AddProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T22:48:09.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\MainView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:28:36.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:44:56.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:52:07.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DiscountDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\DiscountDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Concteate\\DiscountDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\DiscountDal.cs",
+              "RelativeToolTip": "MarketingDal\\Concteate\\DiscountDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:57:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\OrderDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Concteate\\OrderDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\OrderDal.cs",
+              "RelativeToolTip": "MarketingDal\\Concteate\\OrderDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:33:56.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderItemDal.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\OrderItemDal.cs",
+              "RelativeDocumentMoniker": "MarketingDal\\Concteate\\OrderItemDal.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\MarketingDal\\Concteate\\OrderItemDal.cs",
+              "RelativeToolTip": "MarketingDal\\Concteate\\OrderItemDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:33:49.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Class1.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Class1.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:58:25.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:46:58.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:47:20.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\MarketingBll\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingBll\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "..\\MarketingBll\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:47:40.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProjectApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProjectApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProjectApp\\Program.cs",
+              "RelativeToolTip": "..\\MarketingProjectApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:10:37.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProjectTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProjectTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProjectTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MarketingProjectTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T01:05:11.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UnitTest2.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProjectTests\\UnitTest2.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProjectTests\\UnitTest2.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProjectTests\\UnitTest2.cs",
+              "RelativeToolTip": "..\\MarketingProjectTests\\UnitTest2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:23:51.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrdersView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\OrdersView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MarketingProject.Wpf\\Views\\OrdersView.xaml.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProject.Wpf\\Views\\OrdersView.xaml.cs",
+              "RelativeToolTip": "..\\MarketingProject.Wpf\\Views\\OrdersView.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:50:20.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Juliya\\programming.cs\\MarketingProgect\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:21:24.816Z"
             }
           ]
         }

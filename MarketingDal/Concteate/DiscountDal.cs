@@ -30,7 +30,7 @@ namespace MarketingDAL.Concrete
             return discount;
         }
 
-        public bool Delete(int discountId)
+        public bool Delete(int discountId) 
         {
             using (SqlConnection connection = new SqlConnection(_connectionString))
             {

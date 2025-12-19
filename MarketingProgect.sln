@@ -7,7 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketingProject", "Marketi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketingProjectApp", "..\MarketingProjectApp\MarketingProjectApp.csproj", "{E87E3513-8AFB-4411-9901-30AA5452C007}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketingProjectTests", "..\MarketingProjectTests\MarketingProjectTests.csproj", "{6C2EC95A-BDB3-4B7C-8C0B-05627D0FE6C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketingProjectTests", "..\MarketingProjectTests\MarketingProjectTests.csproj", "{6C2EC95A-BDB3-4B7C-8C0B-05627D0FE6C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketingProject.Wpf", "..\MarketingProject.Wpf\MarketingProject.Wpf.csproj", "{8C6C0934-3567-40B9-816D-DEB4A43531FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketingBll", "..\MarketingBll\MarketingBll.csproj", "{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketingBll.Tests", "..\MarketingBll.Tests\MarketingBll.Tests.csproj", "{E02E405E-394E-4C4E-83C2-80F641350A69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{6C2EC95A-BDB3-4B7C-8C0B-05627D0FE6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C2EC95A-BDB3-4B7C-8C0B-05627D0FE6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C2EC95A-BDB3-4B7C-8C0B-05627D0FE6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6C0934-3567-40B9-816D-DEB4A43531FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6C0934-3567-40B9-816D-DEB4A43531FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6C0934-3567-40B9-816D-DEB4A43531FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6C0934-3567-40B9-816D-DEB4A43531FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFC1D1C-813E-4D92-85F4-CD730BC83DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02E405E-394E-4C4E-83C2-80F641350A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02E405E-394E-4C4E-83C2-80F641350A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02E405E-394E-4C4E-83C2-80F641350A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02E405E-394E-4C4E-83C2-80F641350A69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

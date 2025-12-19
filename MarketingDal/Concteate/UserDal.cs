@@ -10,13 +10,11 @@ namespace MarketingDAL.Concrete
     {
         private string _connectionString;
 
-        // Конструктор за замовчуванням
         public UserDal()
         {
             _connectionString = "Server=localhost;Database=MarketingDB;Trusted_Connection=True;TrustServerCertificate=True;";
         }
 
-        // Конструктор з рядком підключення
         public UserDal(string connectionString)
         {
             _connectionString = connectionString;
